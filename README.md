@@ -24,7 +24,7 @@ The idea is to use recursion in such a way to be sure that all the possible comb
 The flag was obtained by executing several time the program, also by applying small changes in the code (in the uploaded code  there are some comments which are the previous version of the program).  
 Also a little bit of luck helped.
 
-The code works well with some policies (like 1, 3, 4), with others does not terminate soon.
+The code works well with some policies (like 1, 3, 4), with others does not terminate soon.  
 A problem which I encountered was that the length of the user-to-role assignments set become 0, so the recursive calls never terminate.
 
 ## Execution
